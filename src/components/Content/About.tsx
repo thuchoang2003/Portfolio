@@ -32,38 +32,16 @@ const About = () => {
                   <div className="arlo_tm_mini_title_holder">
                     <h4>
                       Hi there... and I'm a{" "}
-                      {/* <span className="arlo_tm_animation_text_word"></span> */}
                       <TypeAnimation
-                        sequence={[
-                          // Same substring at the start will only be typed out once, initially
-                          "Web Developer",
-                          2000, // wait 1s before replacing "Mice" with "Hamsters"
-                          "Freelancer",
-                          3000,
-                          // "We produce food for Guinea Pigs",
-                          // 1000,
-                          // "We produce food for Chinchillas",
-                          // 1000,
-                        ]}
+                        sequence={["Web Developer", 2000, "Freelancer", 3000]}
                         wrapper="span"
                         speed={50}
-                        //   style={{ fontSize: "2em", display: "inline-block" }}
                         repeat={Infinity}
+                        placeholder={undefined}
                       />
                     </h4>
                   </div>
                   <div className="definition">
-                    {/* <p>
-                      Hi! My name is <strong>Alan Michaelis</strong>. I am a Web
-                      Developer, and I'm very passionate and dedicated to my
-                      work. With 20 years experience as a professional Web
-                      developer, I have acquired the skills and knowledge
-                      necessary to make your project a success. I enjoy every
-                      step of the design process, from discussion and
-                      collaboration to concept and execution, but I find the
-                      most satisfaction in seeing the finished product do
-                      everything for you that it was created to do.
-                    </p> */}
                     <p>
                       Xin chào, tôi là Hoàng, hiện đang là sinh viên năm 3, Khoa
                       Công Nghệ Thông Tin, Trường Đại Học Bách Khoa - Đại Học Đà
