@@ -99,7 +99,9 @@ const About = () => {
                       <li>
                         <span>
                           <label>Website:</label>{" "}
-                          <a href="#">www.mywebsite.com</a>
+                          <a href="https://portfolio.nhodev.xyz/">
+                            https://portfolio.nhodev.xyz/
+                          </a>
                         </span>
                       </li>
                       <li>
