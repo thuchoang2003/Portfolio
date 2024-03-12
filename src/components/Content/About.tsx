@@ -1,5 +1,5 @@
 import imageAbout from "@/assets/img/about/image_about_2.jpg";
-import cv_example from "@/assets/cv_example.pdf";
+import cv_example from "@/assets/cv.pdf";
 import { TypeAnimation } from "react-type-animation";
 const About = () => {
   return (
