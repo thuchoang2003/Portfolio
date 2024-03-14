@@ -1,4 +1,4 @@
-import imageAbout from "@/assets/img/about/image_about_2.jpg";
+import imageAbout from "@/assets/img/hero/avatar_cv.jpg";
 import cv_example from "@/assets/cv_example.pdf";
 import { TypeAnimation } from "react-type-animation";
 const About = () => {

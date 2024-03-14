@@ -1,5 +1,5 @@
 import { TypeAnimation } from "react-type-animation";
-import imageLogo from "@/assets/img/hero/coffee_noel_3_final.jpg";
+import imageLogo from "@/assets/img/hero/avatar_cv.jpg";
 const Home_cv = () => {
   return (
     <>
