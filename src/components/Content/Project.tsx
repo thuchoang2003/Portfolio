@@ -14,7 +14,7 @@ const Project = () => {
         member: 1,
         responsive: "No",
         role: "Developer",
-        demo: "Sản phẩm vẫn đang dần hoàn thiện, đang chạy ở localhost", //link video, link github, link deploy
+        demo: "https://quizlet-frontend.nhodev.xyz/", //link video, link github, link deploy
         github: "https://github.com/thuchoang2003/SERN_Quizzlet",
       },
     },
